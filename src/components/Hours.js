@@ -17,7 +17,7 @@ const Hours = () =>{
 
     return (
     <div className="wooden-sign">
-    <h1> Horario del refugio: <p>{horarioHoy}</p> </h1>
+    <h1> Horario del refugio hoy: <p>{horarioHoy}</p> </h1>
     </div>
     )
 }
