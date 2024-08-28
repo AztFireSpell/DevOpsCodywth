@@ -185,3 +185,17 @@ li {
 h1 {
   text-align: center;
 }
+
+.wooden-sign {
+  
+  background-color: #8b5a2b; /* Color de fondo marrón para imitar la madera */
+  border: 5px solid #5c3d24; /* Borde oscuro para dar más definición */
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5); /* Sombra para dar efecto de profundidad */
+  color: #fdf5e6; /* Color del texto que contraste con la madera */
+  padding: 20px;
+  font-family: 'Georgia', serif; /* Fuente serif para dar un aspecto más rústico */
+  text-align: center;
+  max-width: 300px;
+  margin: 10px;
+  border-radius: 10px;
+}
